@@ -47,5 +47,5 @@ def access_key():
 if __name__ == '__main__':
     # Test your code with this first
     # Change the function to test different sections
-    print(make_dict())
+    print(access_key())
 
